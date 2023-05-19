@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="temperature_celsius">Temperature in Celsius</string>
+    <string name="temp_min">Minimum Temperature</string>
+    <string name="temp_max">Maximum Temperature</string>
+    <string name="enter_city">Please Enter City</string>
+    <string name="city_name">City Name</string>
+</resources>
